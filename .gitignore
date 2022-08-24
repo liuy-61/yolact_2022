@@ -94,6 +94,9 @@ ENV/
 # weights
 weights/
 
+# tensorboard
+tensorboard/
+
 #DS_Store
 .DS_Store
 
@@ -162,3 +165,5 @@ _.py
 data/local.py
 
 *.png
+
+
