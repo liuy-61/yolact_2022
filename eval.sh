@@ -1,0 +1,1 @@
+python eval.py --trained_model=/home/algroup/liuy/yolact/weights/yolact_base_54_800000.pth --score_threshold=0.15 --top_k=15 --images=/home/algroup/liuy/cityscapes/leftImg8bit/test/berlin:/home/algroup/liuy/cityscapes/output/berlin_pretained

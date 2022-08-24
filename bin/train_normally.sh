@@ -1,0 +1,1 @@
+python train.py --dataset=city_coco_dataset --resume=/home/algroup/liuy/yolact/weights/scratch_model/yolact_base_99_30900.pth   --batch_size=4 --num_epochs=150 --exp_name=train_normally

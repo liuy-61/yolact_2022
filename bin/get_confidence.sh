@@ -1,0 +1,1 @@
+python ../get_confidence.py --resume=/home/algroup/liuy/yolact/weights/coco_person_dataset_B_with_90_epochs/yolact_base_89_254070.pth --dataset=coco_person_dataset_A --batch_size=1 --confidence_threshold=0

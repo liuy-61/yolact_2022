@@ -1,0 +1,1 @@
+  python uncertainty.py --dataset=city_coco_dataset --resume=/home/algroup/liuy/yolact/weights/train_from_scratch_with_300_epoch/yolact_base_121_25132.pth --batch_size=12 --num_epochs=50   --loss_path=/home/algroup/liuy/yolact/loss/100_epoch.json

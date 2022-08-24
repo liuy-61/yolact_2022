@@ -1,0 +1,1 @@
+python ../sample_score.py --dataset=coco_person_dataset  --num_epochs=100 --drop_ratios=0.02,0.04,0.06,0.08,0.10 --batch_size=8

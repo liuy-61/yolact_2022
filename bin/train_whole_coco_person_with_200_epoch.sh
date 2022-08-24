@@ -1,0 +1,1 @@
+python train.py --batch_size=16 --dataset=coco_person_dataset --num_epochs=100 --exp_name=train_whole_coco_person_with_250_epoch

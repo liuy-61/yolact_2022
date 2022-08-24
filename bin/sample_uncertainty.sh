@@ -1,0 +1,1 @@
+python /home/algroup/liuy/yolact/sample_uncertainty.py --dataset=coco_person_dataset --batch_size=16 --num_epochs=100 --weight_to_get_loss_path=/home/algroup/liuy/yolact/weights/train_whole_coco_person_with_100_epochs/yolact_base_30_87513.pth --drop_ratios=0.06,0.07,0.08,0.09,0.10 --exp_setting=1
